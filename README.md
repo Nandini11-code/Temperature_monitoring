@@ -35,7 +35,5 @@ The project is designed for beginners to understand arrays, loops, and basic cal
 - Performing mathematical calculations
 - Writing clean and readable code
 
----
 
-## 👩‍💻 Author
-Nandini Solanki
+
